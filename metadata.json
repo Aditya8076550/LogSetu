@@ -1,0 +1,6 @@
+{
+  "name": "LogSetu - Universal Log Interoperability Platform",
+  "description": "LogSetu converts heterogeneous security logs into a common, traceable event representation so security systems can understand and correlate events across vendors, operating systems, networks, applications, and cloud platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

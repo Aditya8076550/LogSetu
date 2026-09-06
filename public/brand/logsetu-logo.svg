@@ -1,0 +1,25 @@
+<svg viewBox="0 0 320 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(10, 5)">
+    <!-- Shield Outer Outline -->
+    <path d="M40 3L72 14V46C72 68 58 84 40 90C22 84 8 68 8 46V14L40 3Z" stroke="#6657E8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Bridge Suspension Towers -->
+    <path d="M26 24V50M22 30H30M22 42H30" stroke="#7868FF" stroke-width="3" stroke-linecap="round"/>
+    <path d="M54 24V50M50 30H58M50 42H58" stroke="#7868FF" stroke-width="3" stroke-linecap="round"/>
+    <!-- Suspension Cable -->
+    <path d="M12 38C20 30 26 28 35 40C40 46 40 46 45 40C54 28 60 30 68 38" stroke="#35C7F4" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Bridge Deck -->
+    <path d="M12 50H68" stroke="#6657E8" stroke-width="4.2" stroke-linecap="round"/>
+    <!-- Center Keyhole -->
+    <circle cx="40" cy="40" r="3.5" fill="#FFFFFF"/>
+    <path d="M38.5 42.5L37 49H43L41.5 42.5Z" fill="#FFFFFF"/>
+    <!-- Water / Data Stream Waves -->
+    <path d="M20 59C26 57 33 60 39 59" stroke="#35C7F4" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="M17 67C23 65 31 68 39 66" stroke="#35C7F4" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="M46 58C51 60 57 59 62 57" stroke="#7868FF" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="M44 66C49 68 55 67 60 65" stroke="#7868FF" stroke-width="2.8" stroke-linecap="round"/>
+  </g>
+  <!-- Text: LogSetu -->
+  <text x="100" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">LogSetu</text>
+  <!-- Subtitle: SECURE DATA BRIDGING -->
+  <text x="102" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#7868FF" letter-spacing="3.2">SECURE DATA BRIDGING</text>
+</svg>
